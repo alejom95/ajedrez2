@@ -1,0 +1,19 @@
+{
+  "name": "ajedrez2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alejom95/ajedrez2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alejom95/ajedrez2/issues"
+  },
+  "homepage": "https://github.com/alejom95/ajedrez2#readme"
+}
